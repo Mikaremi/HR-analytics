@@ -65,6 +65,4 @@ ORDER BY turnover_rate DESC;
 5. Most of the employees in the company are aged 51+
 6. The year 2020 recorded the highest % hire change
 
-   ### References
-
-- SQL for Business by Werty
+  
