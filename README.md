@@ -1,7 +1,7 @@
 # Hrdata Analysis
 
 ### Project Overview
-This data analysis project aims to provide insights about employees who are working at a particular company. By analyzing the varous aspects of the hr data, we set to identify trends, make data driven recommendations, and gain a deeper understanding of the employees in the company.
+This data analysis project aims to provide insights about employees who are working at a particular company. By analyzing the various aspects of the hr data, we set to identify trends, make data driven recommendations, and gain a deeper understanding of the employees in the company.
 
 
 ### Data source
