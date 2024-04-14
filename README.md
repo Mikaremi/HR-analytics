@@ -10,7 +10,7 @@ HR DATA: The primary dataset used for this analysis is the "HR DATA.csv" file, c
 ### Tools
 
 - Excel - Data cleaning
-- Microsoft SQL Server - Data analysis
+- SQL - Data analysis
 - Power Bi - Creating a report
   
 ### Data cleaning
