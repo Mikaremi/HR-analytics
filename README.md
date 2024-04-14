@@ -7,7 +7,7 @@ This data analysis project aims to provide insights about employees who are work
 ### Data source
 HR DATA: The primary dataset used for this analysis is the "HR DATA.csv" file, containing detailed informations about each employee in the company.
 
-### Tools
+### Project requirements:
 
 - Excel - Data cleaning
 - SQL - Data analysis
